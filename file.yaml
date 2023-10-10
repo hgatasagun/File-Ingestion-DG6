@@ -1,0 +1,10 @@
+file_type: csv
+file_name: z
+inbound_delimiter: ","
+outbound_delimiter: "|"
+columns:
+    - t_dat
+    - customer_id
+    - article_id
+    - price
+    - sales_channel_id
