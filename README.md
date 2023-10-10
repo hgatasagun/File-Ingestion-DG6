@@ -1,4 +1,4 @@
-# Data-Ingestion-DG6
+# File Ingestion and Schema Validation - DG6
 
 - Take any csv/text file of 2+ GB of your choice.
 - Read the file ( Present approach of reading the file )
