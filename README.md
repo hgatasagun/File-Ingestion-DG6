@@ -1,6 +1,4 @@
-# Data-Ingestion---DG6
-
-File Ingestion and Schema validation
+# Data-Ingestion-DG6
 
 - Take any csv/text file of 2+ GB of your choice. --- (You can do this assignment on Google colab)
 - Read the file ( Present approach of reading the file )
