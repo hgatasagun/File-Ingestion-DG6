@@ -1,6 +1,6 @@
 # Data-Ingestion-DG6
 
-- Take any csv/text file of 2+ GB of your choice. --- (You can do this assignment on Google colab)
+- Take any csv/text file of 2+ GB of your choice.
 - Read the file ( Present approach of reading the file )
 - Try different methods of file reading eg: Dask, Modin, Ray, pandas and present your findings in term of computational efficiency
 - Perform basic validation on data columns : eg: remove special character , white spaces from the col name
